@@ -12,7 +12,7 @@ https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK
 06:31 - Exploring the Terraform Code Prep Changes  
 08:15 - Differences between example API v1 and API v2 service definitions  
 10:10 - Hooking up API v1 and API v2 to Consul  
-17:43 - Exploring Envoy's logs and how Consul works with Envoy   
+17:43 - Изучение логов Envoy и то, как Consul работает с Envoy      
 24:10 - What Consul Intentions look like as Envoy Filters   
 30:12 - Creating Layer 7 Consul Intentions   
 37:48 - Beginning the blue green deployment set up   
