@@ -1,3 +1,6 @@
+Оригинальный репозитарий   
+https://github.com/jcolemorrison/getting-into-consul   
+
 # Getting into Consul
 
 This is the repo used in the [Getting into HashiCorp Consul](https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK) series where we walk through building out a Consul based architecture and cluster, on AWS, from scratch.
