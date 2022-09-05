@@ -1,6 +1,36 @@
 Оригинальный репозитарий   
 https://github.com/jcolemorrison/getting-into-consul   
 
+[Плейлист (Twitch Series)] HashiCorp Live: Getting into Consul (Twitch Series)   
+https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK   
+
+будут затронуты следующие темы:
+
+
+00:00 - Introduction and Recap   
+02:10 - Agenda for the Stream  
+06:31 - Exploring the Terraform Code Prep Changes  
+08:15 - Differences between example API v1 and API v2 service definitions  
+10:10 - Hooking up API v1 and API v2 to Consul  
+17:43 - Exploring Envoy's logs and how Consul works with Envoy   
+24:10 - What Consul Intentions look like as Envoy Filters   
+30:12 - Creating Layer 7 Consul Intentions   
+37:48 - Beginning the blue green deployment set up   
+52:10 - Using the health check endpoint to examine service data structure  
+54:10 - Writing configs to Consul using the CLI    
+56:27 - Debugging Consul Service Resolver when using the ID field  
+1:04:00 - Understanding Services as Envoy Clusters   
+1:13:10 - Using Service Meta data to complete Service Resolver  
+1:19:00 - Traffic splitting via Service Resolver initially set up  
+1:21:00 - Realizing that a Consul intention was needed...      
+1:27:00 - Recap of debugging session around using Service ID with Service Resolver   
+1:35:00 - Configuring Service / Traffic Splitting with the Service Resolver and Splitter  
+1:40:20 - Where to put Consul configuration files for bootstrapping  
+1:45:53 - Configuring a Consul Service Router for fine-grained routing to Subsets   
+
+[Nov 24, 2021]&[HashiCorp] Getting into HashiCorp Consul, Part 8: Traffic Shaping and Envoy Debugging  
+https://www.youtube.com/watch?v=kGGu0m2StRA     
+
 # Getting into Consul
 
 This is the repo used in the [Getting into HashiCorp Consul](https://www.youtube.com/playlist?list=PL81sUbsFNc5b8i2g2sB_tG-PuZxEdlDpK) series where we walk through building out a Consul based architecture and cluster, on AWS, from scratch.
